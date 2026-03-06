@@ -124,7 +124,11 @@ php -S localhost:8000
 http://localhost:8000
 ```
 
-### 项目结构
+### 许可证
+
+本项目采用 GNU General Public License v3.0（GPL-3.0）开源。详见 `LICENSE` 文件。
+
+### Project Structure （项目结构）
 
 ```text
 earthripples/
@@ -139,7 +143,3 @@ earthripples/
 ├─ LICENSE
 └─ README.md
 ```
-
-### 许可证
-
-本项目采用 GNU General Public License v3.0（GPL-3.0）开源。详见 `LICENSE` 文件。
