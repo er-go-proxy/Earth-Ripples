@@ -7,6 +7,7 @@
 
 Earth Ripples is an interactive historical map website that visualizes global political boundaries over time.  
 It allows users to explore from 3000 BCE to 2000 CE and observe how civilizations, dynasties, empires, and modern states changed geographically.
+URL: www.earthripples.com
 
 ### Key Features
 
@@ -70,6 +71,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 
 Earth Ripples 是一个可交互的历史地图网站，用时间轴展示全球政权边界在不同时期的变化。  
 用户可以从公元前 3000 年浏览到公元 2000 年，查看文明、王朝、帝国和现代国家的空间演变。
+网站链接: www.earthripples.com
 
 ### 主要特性
 
