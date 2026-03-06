@@ -128,6 +128,14 @@ http://localhost:8000
 
 本项目采用 GNU General Public License v3.0（GPL-3.0）开源。详见 `LICENSE` 文件。
 
+## Data Source / 数据来源
+
+**English**: The historical geographic data used in this project is based on **Cliopatria – A geospatial database of world-wide political entities from 3400BCE to 2024CE** (Bennett et al., 2025, *Scientific Data*), with certain modifications and optimizations applied.
+
+**中文**：本项目使用的历史地理数据基于 **Cliopatria – A geospatial database of world-wide political entities from 3400BCE to 2024CE**（Bennett et al., 2025, *Scientific Data*），并在此基础上进行了一定程度的修正和优化。
+
+> **Citation**: Bennett, J.S., Mutch, E., Tollefson, A., Chalstrey, E. et al. Cliopatria – A geospatial database of world-wide political entities from 3400BCE to 2024CE. *Sci Data* **12**, 247 (2025). https://doi.org/10.1038/s41597-025-04516-9
+
 ### Project Structure （项目结构）
 
 ```text
